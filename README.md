@@ -5,3 +5,6 @@ The input format is as-
   1. Weight
   2. Height
   3. Waist size
+  
+  
+ Please feel free to suggest any improvements! :D
